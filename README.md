@@ -1,9 +1,9 @@
-🧠 JARVIS - AI-Powered Personal Voice Assistant
+#🧠 JARVIS - AI-Powered Personal Voice Assistant
 
 JARVIS is a Python-based voice assistant designed to perform various tasks such as speech recognition, 
 AI interaction using OpenAI & Gemini, image generation, emailing, WhatsApp messaging, task tracking, and more – all via simple voice commands.
 
-🚀 Features
+#🚀 Features
 
 - 🎙️ **Voice Command Recognition** using Google Speech API  
 - 🗣️ **Text-to-Speech Response** with `pyttsx3`  
@@ -17,13 +17,13 @@ AI interaction using OpenAI & Gemini, image generation, emailing, WhatsApp messa
 - 💻 **Desktop App Launcher**  
 - 🔐 **Secure Configuration** through `user_config.py`
 
-🧰 Tech Stack
+#🧰 Tech Stack
 
 - **Python Libraries**: `pyttsx3`, `speech_recognition`, `pyautogui`, `pywhatkit`, `wikipedia`, `plyer`, `requests`, `smtplib`, `ssl`, `replicate`, `mtranslate`
 - **AI Services**: OpenAI GPT-4o, Gemini Pro, Replicate (for image generation)
 - **Other Tools**: `Pillow`, `WebBrowser`, `PyAudio`
 
-🗂️ Folder Structure
+#🗂️ Folder Structure
 
 ```
 .
@@ -36,7 +36,7 @@ AI interaction using OpenAI & Gemini, image generation, emailing, WhatsApp messa
 ├── PyWhatKit_DB.txt       # WhatsApp message log
 ```
 
-🛠️ Installation
+#🛠️ Installation
 
 1. **Clone the repo**:
    ```bash
@@ -61,7 +61,7 @@ AI interaction using OpenAI & Gemini, image generation, emailing, WhatsApp messa
 
 > 🔐 **Note**: Keep your `user_config.py` file secure and avoid pushing it to public repositories.
 
-📌 Sample Voice Commands
+#📌 Sample Voice Commands
 
 - "Hello"
 - "Play music"
@@ -76,7 +76,7 @@ AI interaction using OpenAI & Gemini, image generation, emailing, WhatsApp messa
 - "Ask AI tell me a joke"
 - "Ask Gemini what's the weather in Delhi?"
 
-🤝 Contributions
+#🤝 Contributions
 
 Contributions are welcome! Please fork the repository and submit a pull request.
 
