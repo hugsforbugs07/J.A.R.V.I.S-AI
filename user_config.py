@@ -1,0 +1,3 @@
+gmail_pass = "Cartoon@2003"
+openai_key = "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"
+gemini_key = "AIzaSyBilZe_txGpVbU_g9xrAuhwpTkt5dAP97w"
